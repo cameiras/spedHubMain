@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpedHub - Coming soon!"
-featured-img: shane-rounce-205187
+featured-img: emile-perron-190221
 #categories: [Sample, Guides]
 ---
 
