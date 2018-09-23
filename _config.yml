@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  SpedHub is a private social network for parents with special need to discover the best school district for their child's needs
+  SpedHub is a private social network for parents of special needs children that helps discovering the best school districts for their children's needs
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
