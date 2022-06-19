@@ -4,7 +4,7 @@ author: Serena Cameirano # You :P
 description: > # Meta description of Homepage
   Spedhub is a website focused on Special Education information for parents
   of special need kids. It helps anonimously share information about school district
-  and their services
+  and regional center services and activities
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://cameiras.github.io/spedHubMain/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  SpedHub is a private social network for parents of special needs children that helps discovering the best school districts for their children's needs
+  SpedHub is a site for parents of special needs children based in California that helps discover the available services, activities and resources for their children's needs. 
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
