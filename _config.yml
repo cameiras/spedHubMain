@@ -24,8 +24,10 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Services', link: '/services'}
   - {name: 'Activities', link: '/activities'}
+  - {name: 'Summer, Spring and Winter Camps', link: '/camps'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  
 
 tagline: >
   SpedHub is a site for parents of special needs children based in California that helps discover the available services, activities and resources for their children's needs. 
