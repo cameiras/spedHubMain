@@ -31,7 +31,7 @@ permalink: /activities/
     </p>
    
     <p>
-        Rock Climbing - <a href="https://touchstoneclimbing.com/diablorock/">Diablo Rock<a> in Concord, CA does not run a special need class but they are very flexible and accomodate. A caregiver can take a baley class for $30 and will be able to let the child climb in safety for a fee.
+        Rock Climbing - <a href="https://touchstoneclimbing.com/diablorock/">Diablo Rock</a> in Concord, CA does not run a special need class but they are very flexible and accomodate. A caregiver can take a baley class for $30 and will be able to let the child climb in safety for a fee.
     </p>
    
 </p>
