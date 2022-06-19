@@ -7,9 +7,11 @@ featured-img: emile-perron-190221
 
 Hi! Welcome to Spedhub! I am so glad you are here.
 
-Spedhub is special education social network for parents of children with special needs. The main goal of this platform is to help parents to understand what school districts in the USA are best for their children.
+Spedhub is a hub for parents of disabled kids living in California to gather information about services, special needs activities and special education resources. The main goal of this platform is a hub of all the various information and activities that can help kids like mine. It took me years to find all the services out there and most of the inforamtion I gather where by talking with other parents like you. Social workers, at times, don't know all the services that the regional center can provide, and if you talk with different social workers most likely than not you gather different information.
 
-Every parents of special need kids attend a yearly IEP/504 meeting where goals are discussed and changed if needed. When this information is shared by each parent (anonimously without sharing information of the kid) by entering for example (1 hour of OT a month, 4 hours of Speech, etc), spedhub can be used by parents everywhere to search for his or her child disability and compare district to understand what is best. A parent can also leave a rating of theirs school by year, class and teacher. 
+This site is where I put the information I know specifically for Nothern California, East bay Area (East bay regional center) since it is where I am based. 
+
+Please contact me if you have more information about different regional center (they do things slightly different) or activities. I will update the site to include more vetted info as they come.
 
 
 Spedhub is currently under work! Feel free to navigate to the "contact me" page and email me any suggestions or ideas!
