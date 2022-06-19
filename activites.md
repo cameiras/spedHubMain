@@ -7,11 +7,11 @@ permalink: /activities/
 <div class="row">
     These activities are located generally in East Bay (San Francisco). If you want to add more activities (even outside this area, please contact us.
 </div>
-<div>
+<div class="row">
 
     <div class="row">
     <a href="https://www.siennaranch.net/programs-for/special-needs/"> Siena Ranch SEED</a> - usually held on Wednesday (time differs for age group). There could be a wait list contact them to inquire
-    </li>
+    </div>
    
     <div class="row">
     <a href="https://www.encoregym.com/special-needs-gymnastics">Encore Gym</a> Special needs gymnastic held on Thursdays at 2:45pm
